@@ -5,7 +5,7 @@
 - ri3-lupes3i-module
 
 ## Instalar Bibliotecas
-npm i ri3-lupes3i-module
+`npm i ri3-lupes3i-module`
 
 ## Testar
-npm run test
+`npm run test`
